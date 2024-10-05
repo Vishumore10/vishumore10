@@ -12,10 +12,10 @@
 
 ### 👀 About Me
 - 🔭 I’m currently working on *Web Development Projects*
-- 🌱 I’m learning *Laravel, JavaScript frameworks, and more*
+- 🌱 I’m learning *JavaScript frameworks, and more*
 - 👯 I’m looking to collaborate on *Web Development projects*
 - 💬 Ask me about *PHP, HTML, CSS, JavaScript, and Laravel*
-- 📫 Reach me at *vmweb0867@gmail.com* or via LinkedIn
+- 📫 Reach me at *vishalmore0480@gmail.com* or via LinkedIn
 
 ---
 
